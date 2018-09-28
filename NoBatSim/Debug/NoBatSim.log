@@ -1,0 +1,5 @@
+﻿  NoBatSim.cpp
+c:\users\bendystraw\source\repos\nobatsim\nobatsim\nobatsim.cpp(129): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\bendystraw\source\repos\nobatsim\nobatsim\nobatsim.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\bendystraw\source\repos\nobatsim\nobatsim\nobatsim.cpp(162): warning C4018: '<': signed/unsigned mismatch
+  NoBatSim.vcxproj -> C:\Users\Bendystraw\source\repos\NoBatSim\Debug\NoBatSim.exe
